@@ -1,0 +1,136 @@
+{
+    "players": [
+        {
+            "firstName": "Paschal",
+            "surName": "Francis",
+            "dateOfBirth": "2006-04-22",
+            "strongFoot": "R"
+        },
+        {
+            "firstName": "Tony",
+            "surName": "Mark",
+            "dateOfBirth": "2000-07-10",
+            "strongFoot": "R"
+        },
+        {
+            "firstName": "Tiger",
+            "surName": "Shark",
+            "dateOfBirth": "2001-07-10",
+            "strongFoot": "R"
+        },
+        {
+            "firstName": "Star",
+            "surName": "Manny",
+            "dateOfBirth": "2003-01-30",
+            "strongFoot": "R"
+        },
+        {
+            "firstName": "Sergion",
+            "surName": "Sergio",
+            "dateOfBirth": "1999-07-25",
+            "strongFoot": "L"
+        },
+        {
+            "firstName": "Scale",
+            "surName": "Scaloni",
+            "dateOfBirth": "1999-02-06",
+            "strongFoot": "R"
+        },
+        {
+            "firstName": "Saxa",
+            "surName": "Long",
+            "dateOfBirth": "1990-04-30",
+            "strongFoot": "L"
+        },
+        {
+            "firstName": "Ponny",
+            "surName": "Ponny",
+            "dateOfBirth": "2001-05-13",
+            "strongFoot": "R"
+        },
+        {
+            "firstName": "Nnamdi",
+            "surName": "Prince",
+            "dateOfBirth": "2007-05-20",
+            "strongFoot": "R"
+        },
+        {
+            "firstName": "Naga",
+            "surName": "Favour",
+            "dateOfBirth": "2006-05-27",
+            "strongFoot": "R"
+        },
+        {
+            "firstName": "Loom",
+            "surName": "Low",
+            "dateOfBirth": "2003-05-26",
+            "strongFoot": "L"
+        },
+        {
+            "firstName": "Lionel",
+            "surName": "Francis",
+            "dateOfBirth": "2008-11-23",
+            "strongFoot": "L"
+        },
+        {
+            "firstName": "KimHim",
+            "surName": "Soung",
+            "dateOfBirth": "2006-11-30",
+            "strongFoot": "L"
+        },
+        {
+            "firstName": "JUJU",
+            "surName": "Bi",
+            "dateOfBirth": "2000-12-10",
+            "strongFoot": "L"
+        },
+        {
+            "firstName": "Johnpaul",
+            "surName": "Leo",
+            "dateOfBirth": "2006-01-30",
+            "strongFoot": "R"
+        },
+        {
+            "firstName": "Jim",
+            "surName": "Kaai",
+            "dateOfBirth": "2005-09-30",
+            "strongFoot": "R"
+        },
+        {
+            "firstName": "Fanny",
+            "surName": "Fonny",
+            "dateOfBirth": "1993-12-12",
+            "strongFoot": "L"
+        },
+        {
+            "firstName": "Enzo",
+            "surName": "Eso",
+            "dateOfBirth": "2003-12-12",
+            "strongFoot": "R"
+        },
+        {
+            "firstName": "Ebuka",
+            "surName": "John",
+            "dateOfBirth": "2001-12-10",
+            "strongFoot": "R"
+        },
+        {
+            "firstName": "Cole",
+            "surName": "Kally",
+            "dateOfBirth": "1990-12-25",
+            "strongFoot": "R"
+        },
+        {
+            "firstName": "Bruno",
+            "surName": "Uno",
+            "dateOfBirth": "2004-12-30",
+            "strongFoot": "R"
+        },
+        {
+            "firstName": "Ash",
+            "surName": "Lee",
+            "dateOfBirth": "1998-12-31",
+            "strongFoot": "R"
+        }
+    ]
+}
